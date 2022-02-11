@@ -3035,7 +3035,7 @@ css-select@^4.1.3:
     css-what "^5.1.0"
     domhandler "^4.3.0"
     domutils "^2.8.0"
-    nth-check "^2.0.1"
+    nth-check "2.0.1"
 
 css-select@~1.2.0:
   version "1.2.0"
@@ -6395,7 +6395,7 @@ remark-parse@8.0.3:
     parse-entities "^2.0.0"
     repeat-string "^1.5.4"
     state-toggle "^1.0.0"
-    trim "0.0.1"
+    trim "0.0.3"
     trim-trailing-lines "^1.0.0"
     unherit "^1.0.4"
     unist-util-remove-position "^2.0.0"
