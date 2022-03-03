@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdokc_docs=self.webpackChunkdokc_docs||[]).push([[696],{8262:function(s){s.exports=JSON.parse('{"name":"Demo","permalink":"/docs/tags/demo","docs":[{"id":"Videos/doc-with-tags","title":"A doc with tags","description":"Let\'s discover Docusaurus in less than 5 minutes.","permalink":"/docs/Videos/doc-with-tags"}],"allTagsPath":"/docs/tags"}')}}]);
