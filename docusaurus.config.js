@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: "Docs",
-                to: "/documentation/",
+                to: "/docs/Tutorials/intro/",
               },
             ],
           },
@@ -94,16 +94,16 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Slack",
+                href: "https://go.dok.community/slack",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Website",
+                href: "https://dok.community/",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/dokcommunity/",
               },
             ],
           },
@@ -116,11 +116,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/AbhijithGanesh",
-              },
-              {
-                label: "Resources",
-                to: "/resources",
+                href: "https://github.com/dokc",
               },
             ],
           },
