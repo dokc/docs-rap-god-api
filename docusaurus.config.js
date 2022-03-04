@@ -6,13 +6,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Data on Kubernetes",
+  tagline: "Data on K8s is cool",
   url: "https://dokc.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/dok-icon.png",
   organizationName: "Data on Kuberentes", // Usually your GitHub org/user name.
   projectName: "dokc-docs", // Usually your repo name.
 
@@ -38,7 +38,14 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} **/
+
     {
+      metadata: [
+        {
+          name: "Data on Kubernetes",
+          content: "Cloud Native, Community, Kubernetes",
+        },
+      ],
       hideableSidebar: false,
       colorMode: {
         defaultMode: "dark",
@@ -121,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Data on Kubernetes. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
