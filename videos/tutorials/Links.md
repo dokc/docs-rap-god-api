@@ -1,41 +1,11 @@
-# Website
+# Data on Kubernetes Community
 
-This website is built using [DoK Community Channel](https://www.youtube.com/watch?v=0OLbgKU78Ss), a modern static website generator.
+We host live meetups every week where technologists share their stories, wisdom, and practical advice for running data on Kubernetes.
 
-### Installation
+DoKC is seeking meetup talks from practitioners that describe the use cases, techniques, and best practices for running data on K8s.
 
-```
-$ yarn
-```
+DoKC is funded by sponsors who believe the industry needs a place to collaborate to solve the challenges of working with data on Kubernetes.
 
-### Local Development
+View our DoK Students talk 21
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+<iframe width="862" height="485" src="https://www.youtube.com/embed/W04d8-P5dCQ?list=PLHgdNuGxrJt0Tr28IbaGI7aYAEASIAiwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
