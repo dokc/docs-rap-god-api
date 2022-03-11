@@ -1,4 +1,4 @@
-# Intro to Apache Cassandra // DoK Student Sessions
+# Intro to Apache Cassandra
 
 ### Video 
 
