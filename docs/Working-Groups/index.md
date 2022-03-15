@@ -10,8 +10,10 @@ To join the working group, Join us on [Slack](https://go.dok.community/slack)
 
 The working groups that are currently active:
 
+
 - [Operations and Workflows](./Operations)
 - [Endpoints](./Endpoints)
 - [Testing and Integration](./Testing)
 - [Website and Documentation Maintenance](./Website)
+
 - Databases (Tempoarary)
