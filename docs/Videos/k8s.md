@@ -1,6 +1,6 @@
 # Intro to Kubernetes
 
-https://www.youtube.com/embed/UZpzJZ_iwW8
+[This](https://www.youtube.com/embed/UZpzJZ_iwW8) is an introductory video to learn more about kubernetes and cloud native ecosystem.
 ## Synopsis
 
 In an amazing series of events full of networking, giveaways, workshops, & more! Every month we’ll be running meetups focussed on hands-on workshops by [Data on Kubernetes](https://dok.community/) & community events by [Civo](https://twitter.com/CivoCloud) to get you up and running with terms like Kubernetes and Open Source ✅
