@@ -1,7 +1,6 @@
 # Intro to Kubernetes
 
-<iframe width="862" height="482" src="https://www.youtube.com/embed/UZpzJZ_iwW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/UZpzJZ_iwW8
 ## Synopsis
 
 In an amazing series of events full of networking, giveaways, workshops, & more! Every month we’ll be running meetups focussed on hands-on workshops by [Data on Kubernetes](https://dok.community/) & community events by [Civo](https://twitter.com/CivoCloud) to get you up and running with terms like Kubernetes and Open Source ✅
