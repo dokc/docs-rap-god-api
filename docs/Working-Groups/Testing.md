@@ -1,8 +1,8 @@
 ## Target
 
-- Testing the website
+- Testing the website ✔️
 - Coordinating with the dev-rel team and howtodok squad accordingly.
-- Learning Jest (A testing toool).
+- Learning Jest (A testing tool!).
 - Keep up to date with the website team.
 
 ## Details
