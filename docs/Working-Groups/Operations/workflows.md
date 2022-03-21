@@ -18,7 +18,7 @@ Here is where we will get the fundamental software up and get going. It will be 
 **Cycle 2**
 This is where we will work on adding monitoring metrics to our Database.
 We are yet to decide whether we'll use _prometheus_ or _open-telemetry_
-Similarly Grafana might be used.
+Similarly, Grafana might be used.
 
 **Cycle 3** 
 We will work on adding some additional softwares for repair, backups etc.
