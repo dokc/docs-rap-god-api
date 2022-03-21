@@ -14,4 +14,4 @@ The working groups that are currently active:
 - [Endpoints](https://dokc.github.io/docs/Working-Groups/endpoints)
 - [Testing and Integration](https://dokc.github.io/docs/Working-Groups/Testing)
 - [Website and Documentation Maintenance](https://dokc.github.io/docs/Working-Groups/Website)
-- Databases (Tempoarary)
+- Databases (Temporary)
