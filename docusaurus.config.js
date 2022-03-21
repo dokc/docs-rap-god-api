@@ -95,12 +95,20 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Find out",
             items: [
               {
-                label: "Docs",
-                to: "/docs/Tutorials/intro/",
+                label: "Our Documentation",
+                to: "/docs/Documentation/introduction",
               },
+              {
+                label: "Working Groups",
+                to: "/docs/Working-Groups"
+              },
+              {
+                label: "Community Videos",
+                to: "/docs/Videos"
+              }
             ],
           },
           {
