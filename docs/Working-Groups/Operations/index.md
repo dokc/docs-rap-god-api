@@ -7,9 +7,7 @@
 - Overseeing deployment of various services that are being built
 - DevOpsifying the whole setup
 
-
-#### View the links and other pages to know More!
-
+#### View the links and other pages to know more!
 
 ## Links
 
