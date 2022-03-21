@@ -4,46 +4,24 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
+    title: "What is the DoKC?",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       <p>Kubernetes was originally designed to run stateless workloads. Today, it is increasingly used to run databases and other stateful workloads. Yet despite the success of these early adopters, there remain <b>few known good practices for running data on Kubernetes.</b></p>
+       <p>After discussions with thousands of companies and individuals running data workloads on Kubernetes we’ve come to see that there is a need for a sharing of patterns and concerns about how to build and operate data-centric applications on Kubernetes. As a result, <b>the Data on Kubernetes Community (DoKC) was born.</b></p>
+       <p> DoKC is an openly governed group of curious and experienced practitioners, taking inspiration from the CNCF and Apache Software Foundation.<b> Our aim is to assist in the emergence and development of techniques for the use of Kubernetes for data.</b></p> 
       </>
     ),
   },
-  {
-    title: "Focus on What Matters",
-    Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: "Powered by React",
-    Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
+  
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({title, description }) {
   return (
-    <div className={clsx("col col--4")}>
+    <div className={Text}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
+        <h1 align = "center">{title}</h1>
+        <p align = "center">{description}</p>
       </div>
     </div>
   );
