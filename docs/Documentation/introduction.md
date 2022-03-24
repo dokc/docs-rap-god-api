@@ -20,7 +20,7 @@ This project is about:
 
 ### Proposed Architecture
 
-![proposed architecture](https://github.com/dokc/how-to-dok/static/how_to_dok_proposed_architecture.png)
+![proposed architecture](https://raw.githubusercontent.com/dokc/how-to-dok/main/static/how_to_dok_proposed_architecture.png)
 
 ### Components
 
@@ -51,7 +51,7 @@ This project is about:
 
 
 ### Database Schema
-![Database Schema](https://github.com/dokc/how-to-dok/resources/database/ERD.png)
+![Database Schema](https://raw.githubusercontent.com/dokc/how-to-dok/main/resources/database/ERD.png)
 
 
 #### What should the outcome or products of this project be?

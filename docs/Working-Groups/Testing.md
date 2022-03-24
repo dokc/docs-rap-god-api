@@ -1,16 +1,18 @@
+# Overview
+
 ## Target
 
-- Testing the website ✔️
-- Coordinating with the dev-rel team and howtodok squad accordingly.
-- Learning Jest (A testing tool!).
-- Keep up to date with the website team.
+- Working with jest
+- Implementing the necessary test cases as and when required
+- Coordinating with the other teams for a smoother workflow
 
-## Details
+## Focus
 
-Will be available soon
+ - Defining all the necessary test cases
+ - Making sure the test cases meet the desired functionality
 
 ## Links
 
-**Do checkout our testing group repositoty [here:](https://github.com/dokc/dokc.github.io)**
+**Do checkout our testing group repository [here:](https://github.com/dokc/dokc.github.io)**
 
 **Slack Channel: [Join us](https://dokcommunity.slack.com/archives/C036XTLQ3L2)**
