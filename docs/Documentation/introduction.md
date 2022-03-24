@@ -85,35 +85,6 @@ Here is a list of knowledge resources created by this community:
 
 This section contains reference articles and material touching on or relating to items, services or knowledge, explicit or implicit which is helpful in the context of this project.
 
-### Doubts and Uncertainty
-
-Q: Who is going to develop the components?
-
-A:
-
-Q: How do we onboard new members to contribute to this project?
-
-A:
-
-Q: Who is going to maintain the repository?
-
-A:
-
-Q: How do we keep information in this repository up to date?
-
-A:
-
-Q: How do we ensure we are inclusive of all levels of contributors?
-
-A:
-
-Q: How will we setup and handle repository git flow?
-
-A:
-
-### How to access the ORM?
-
-You can read about it [here](https://github.com/AbhijithGanesh/how-to-dok/edit/express-config/src/readme.md)
 
 ### Contributing
 
@@ -139,5 +110,14 @@ And sign up to the update [newsletter](https://docs.google.com/forms/d/e/1FAIpQL
 ## Thanks to all the contributors ❤️
 
 <a href = "https://github.com/dokc/how-to-dok/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=dokc/how-to-dok"/>
+  <h3> API: </h3>
+  <br/>
+  <img src = "https://contrib.rocks/image?repo=dokc/rap-god-api"/>
+  <h3> Website: </h3>
+  <br/>
+  <img src = "https://contrib.rocks/image?repo=dokc/dokc.github.io"/>
+  <h3> Database Operators: </h3>
+  <br/>
+  <img src = "https://contrib.rocks/image?repo=dokc/database-operators"/>
+  
 </a>
