@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/vsLight");*/
+const lightCodeTheme = require("prism-react-renderer/themes/vsLight");
 const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
 
 /** @type {import('@docusaurus/types').Config} */
@@ -19,7 +19,7 @@ const config = {
   presets: [
     [
       "classic",
-      /* @type {import('@docusaurus/preset-classic').Options} */
+         /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {},
         blog: {
@@ -29,15 +29,15 @@ const config = {
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
 
-        // theme: {
-        //   customCss: require.resolve("./src/css/custom.css"),
-        // },
+        theme: {
+        customCss: require.resolve("./src/css/custom.css"),
+        },
       }),
     ],
   ],
 
   themeConfig:
-  //   /** @type {import('@docusaurus/preset-classic').ThemeConfig} **/
+     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
     {
       metadata: [
