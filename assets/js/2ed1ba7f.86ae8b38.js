@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdokc_docs=self.webpackChunkdokc_docs||[]).push([[4637],{924:function(o){o.exports=JSON.parse('{"permalink":"/docs-rap-god-api/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

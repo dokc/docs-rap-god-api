@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdokc_docs=self.webpackChunkdokc_docs||[]).push([[8142],{1568:function(a){a.exports=JSON.parse('{"allTagsPath":"/docs-rap-god-api/blog/tags","slug":"/docs-rap-god-api/blog/tags/hola","name":"hola","count":1,"permalink":"/docs-rap-god-api/blog/tags/hola"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdokc_docs=self.webpackChunkdokc_docs||[]).push([[7795],{8439:function(o){o.exports=JSON.parse('{"allTagsPath":"/docs-rap-god-api/blog/tags","slug":"/docs-rap-god-api/blog/tags/facebook","name":"facebook","count":1,"permalink":"/docs-rap-god-api/blog/tags/facebook"}')}}]);
