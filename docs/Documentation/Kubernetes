@@ -1,0 +1,10 @@
+Google officially released Kubernetes as an open-source project back in mid-2014. 
+The actual reason for the development of Kubernetes was that back in the 2000s handling Gmail, youtube, and google searches were becoming difficult because 
+of the costs involved in running these popular services back in those days, this eventually led to the birth of the borg project, which developed a cluster 
+management system that was essential for google for handling all the traffic it had on its services.  
+
+With docker evolving as the epicenter of solutions for most of the container management problems, Joe Beda, Brendan Burns, and Craig McLuckie saw an
+opportunity to combine all the magnificent elements of the borg/omega (borg's successor) project and docker's containers leading to the development of the 
+current Kubernetes.
+Significant changes occurred in the projects when the decision of making the project open-source happened since it wasn't getting traction in the market if
+it were a closed source. 
