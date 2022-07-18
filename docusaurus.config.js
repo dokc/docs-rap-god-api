@@ -19,7 +19,7 @@ const config = {
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
+         /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {},
         blog: {
@@ -30,14 +30,14 @@ const config = {
         },
 
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+        customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} **/
+     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
     {
       metadata: [
@@ -48,14 +48,10 @@ const config = {
       ],
       hideableSidebar: false,
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "light",
       },
       navbar: {
-        title: "How-to-DoK",
-        logo: {
-          alt: "How-to-Dok Logo",
-          src: "img/logo.svg",
-        },
+        title: "How To DoK",
         hideOnScroll: true,
         items: [
           {
